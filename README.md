@@ -1,1 +1,2 @@
 # AI-enhancer
+Different from published enhancer-predicting algorithms that are dependent on epigenomics sequencing or profiling data, AI-enhancer is a new deep learning algorithm that enable prediction of enhancers based on DNA sequences without dependence of epigenomics sequencing or profiling data, and therefore is able to predict enhancers in new cells without requiring expensive epigenomics sequencing or profiling experiments first.
